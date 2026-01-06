@@ -1,3 +1,14 @@
+---
+title: AI NIDS
+emoji: 🛡️
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 1.52.2
+app_file: app.py
+pinned: false
+---
+
 # 🛡️ AI-Based Network Intrusion Detection System (AI-NIDS)
 
 ## 📌 Project Overview
