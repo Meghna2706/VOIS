@@ -1,0 +1,1 @@
+Key.print_screen'n''o''t''e'Key.caps_lock'h'Key.caps_lock'e''l''l''o'Key.space't''o'Key.space'e''w''e''r''y''o''n''e''!'Key.shift_rKey.print_screen'\x03'Key.ctrl_l

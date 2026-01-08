@@ -1,0 +1,12 @@
+[{"Pressed": "Key.print_screen"}, {"Hold": "Key.print_screen"}, {"Pressed": "Key.print_screen"}, {"Pressed": "'n'"}, {"Hold": "'n'"}, {"Pressed": "'n'"}, 
+{"Pressed": "'o'"}, {"Hold": "'o'"}, {"Pressed": "'o'"}, {"Pressed": "'t'"}, {"Hold": "'t'"}, {"Pressed": "'t'"}, {"Pressed": "'e'"}, {"Hold": "'e'"}, 
+{"Pressed": "'e'"}, {"Pressed": "Key.caps_lock"}, {"Hold": "Key.caps_lock"}, {"Pressed": "Key.caps_lock"}, {"Pressed": "'h'"}, {"Hold": "'h'"}, {"Pressed": "'h'"}, 
+{"Pressed": "Key.caps_lock"}, {"Hold": "Key.caps_lock"}, {"Pressed": "Key.caps_lock"}, {"Pressed": "'e'"}, {"Hold": "'e'"}, {"Pressed": "'e'"}, {"Pressed": "'l'"}, 
+{"Hold": "'l'"}, {"Pressed": "'l'"}, {"Pressed": "'l'"}, {"Hold": "'l'"}, {"Pressed": "'l'"}, {"Pressed": "'o'"}, {"Hold": "'o'"}, {"Pressed": "'o'"}, 
+{"Pressed": "Key.space"}, {"Hold": "Key.space"}, {"Pressed": "Key.space"}, {"Pressed": "'t'"}, {"Hold": "'t'"}, {"Pressed": "'t'"}, {"Pressed": "'o'"}, 
+{"Hold": "'o'"}, {"Pressed": "'o'"}, {"Pressed": "Key.space"}, {"Hold": "Key.space"}, {"Pressed": "Key.space"}, {"Pressed": "'e'"}, {"Hold": "'e'"}, {"Pressed": "'e'"}, 
+{"Pressed": "'w'"}, {"Hold": "'w'"}, {"Pressed": "'w'"}, {"Pressed": "'e'"}, {"Hold": "'e'"}, {"Pressed": "'e'"}, {"Pressed": "'r'"}, {"Hold": "'r'"}, 
+{"Pressed": "'r'"}, {"Pressed": "'y'"}, {"Hold": "'y'"}, {"Pressed": "'y'"}, {"Pressed": "'o'"}, {"Hold": "'o'"}, {"Pressed": "'o'"}, {"Pressed": "'n'"}, 
+{"Hold": "'n'"}, {"Pressed": "'n'"}, {"Pressed": "'e'"}, {"Hold": "'e'"}, {"Pressed": "'e'"}, {"Pressed": "Key.shift_r"}, {"Hold": "Key.shift_r"}, {"Hold": "'!'"}, 
+{"Pressed": "'!'"}, {"Pressed": "Key.shift_r"}, {"Pressed": "Key.print_screen"}, {"Hold": "Key.print_screen"}, {"Pressed": "Key.print_screen"}, {"Pressed": "Key.ctrl_l"}, 
+{"Hold": "Key.ctrl_l"}, {"Hold": "'\\x03'"}, {"Pressed": "'\\x03'"}, {"Pressed": "Key.ctrl_l"}]
